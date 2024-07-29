@@ -1,0 +1,31 @@
+.manage-users {
+    padding: 20px;
+  }
+  
+  .manage-users table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .manage-users th, .manage-users td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .manage-users th {
+    background-color: #3a8c93;
+    text-align: left;
+  }
+  
+  .manage-users button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .manage-users button:hover {
+    background-color: #d32f2f;
+  }
+  
